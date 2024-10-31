@@ -1,7 +1,7 @@
 ## Reymen Maulana
 
 <div align="center">
-<img src="pixeland.gif" align="center" style="width: 100%" />
+<img src="pixelnd.gif" align="center" style="width: 100%" />
 </div>
 
 I am a final-year Informatics Engineering student, who is always expanding my experience and knowledge. Having an interest in web development and mobile development, I have developed a strong foundation in technical skills and passion for the field of information technology.
@@ -14,8 +14,8 @@ I am a final-year Informatics Engineering student, who is always expanding my ex
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reymen26&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img align='left' width="35%" src='https://github-readme-streak-stats.herokuapp.com/?user=erlanggsss&theme=onedark&hide_border=false'/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reymen26&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erlanggsss&theme=github-compact&area=true&hide_border=true)
 
