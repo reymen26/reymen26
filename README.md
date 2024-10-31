@@ -14,11 +14,11 @@ I am a final-year Informatics Engineering student, who is always expanding my ex
 
 ## 📊 GitHub Stats:
 
-<img align='left' width="35%" src='https://github-readme-streak-stats.herokuapp.com/?user=reymen26&theme=onedark&hide_border=false'/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reymen26&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align='left' width="35%" src='https://github-readme-streak-stats.herokuapp.com/?user=reymen26&theme=onedark&hide_border=false'/>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reymen26&theme=github-compact&area=true&hide_border=true)
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammaderlanggaprasetya) [![](https://visitcount.itsvg.in/api?id=erlanggsss&icon=0&color=2)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reymenmaulana/) [![](https://visitcount.itsvg.in/api?id=reymen26&icon=0&color=2)](https://visitcount.itsvg.in)
